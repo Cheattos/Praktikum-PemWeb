@@ -1,8 +1,6 @@
 # Praktikum-PemWeb
 <?php
-//Latihan Modul 2
 
-//Soal Pertama
 $bil1 = 20;
  $bil2 = 5;
 
