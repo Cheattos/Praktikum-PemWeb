@@ -1,0 +1,56 @@
+# Praktikum-PemWeb
+<?php
+//Latihan Modul 2
+
+//Soal Pertama
+$bil1 = 20;
+ $bil2 = 5;
+
+ echo "Berikut merupakan hasil dari setiap operasi";
+ echo "<br><br>";
+ echo "PERJUMLAHAN";
+ echo "<br>";
+ echo "Operator : +";
+ echo "<br>";
+ $sum = $bil1 + $bil2 ;
+ echo "Hasil : $sum ";
+ echo "<br>";
+
+ echo "<br>";
+ echo "PENGURANGAN";
+ echo "<br>";
+ echo "Operator : -";
+ echo "<br>";
+ $sum = $bil1 - $bil2 ;
+ echo "Hasil : $sum ";
+ echo "<br>";
+
+ echo "<br>";
+ echo "PERKALIAN";
+ echo "<br>";
+ echo "Operator : *";
+ echo "<br>";
+ $sum = $bil1 * $bil2 ;
+ echo "Hasil : $sum ";
+ echo "<br>";
+
+ echo "<br>";
+ echo "PEMBAGIAN";
+ echo "<br>";
+ echo "Operator : /";
+ echo "<br>";
+ $sum = $bil1 / $bil2 ;
+ echo "Hasil : $sum ";
+ echo "<br>";
+
+ echo "<br>";
+ echo "MODULUS";
+ echo "<br>";
+ echo "Operator : %";
+ echo "<br>";
+ $sum = $bil1 % $bil2 ;
+ echo "Hasil : $sum ";
+ echo "<br><br>";
+
+  }
+?>
